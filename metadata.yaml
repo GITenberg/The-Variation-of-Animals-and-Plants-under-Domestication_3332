@@ -1,0 +1,42 @@
+_repo: The-Variation-of-Animals-and-Plants-under-Domestication_3332
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: The object of this work is not to describe all the many races of animals
+  which have been domesticated by man, and of the plants which have been cultivated
+  by him; even if I possessed the requisite knowledge, so gigantic an undertaking
+  would be here superfluous. It is my intention to give under the head of each species
+  only such facts as I have been able to collect or observe, showing the amount and
+  nature of the changes which animals and plants have undergone whilst under man's
+  dominion, or which bear on the general principles of variation. In one case alone,
+  namely in that of the domestic pigeon, I will describe fully all the chief races,
+  their history, the amount and nature of their differences, and the probable steps
+  by which they have been formed. I have selected this case, because, as we shall
+  hereafter see, the materials are better than in any other; and one case fully described
+  will in fact illustrate all others. But I shall also describe domesticated rabbits,
+  fowls, and ducks ...
+gutenberg_bookshelf:
+- Animals-Domestic
+- Botany
+- Biology
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Variation (Biology)'
+- !lcsh 'Domestic animals'
+- !lcsh 'Plants, Cultivated'
+title: The Variation of Animals and Plants under Domestication
+url: http://www.gutenberg.org/ebooks/3332
