@@ -1,5 +1,8 @@
 _repo: The-Variation-of-Animals-and-Plants-under-Domestication_3332
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -22,6 +25,8 @@ description: The object of this work is not to describe all the many races of an
   hereafter see, the materials are better than in any other; and one case fully described
   will in fact illustrate all others. But I shall also describe domesticated rabbits,
   fowls, and ducks ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3332#The-Variation-of-Animals-and-Plants-under-Domestication
 gutenberg_bookshelf:
 - Animals-Domestic
 - Botany
